@@ -76,21 +76,23 @@ Landing page moderna e responsiva desenvolvida para uma pizzaria fictícia.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Estatísticas Gerais usando uma instância rápida alternativa -->
+  <!-- Estatísticas Gerais usando o servidor novo + quebra de cache -->
   <img height="180" src="https://vercel.app"/>
-  <!-- Linguagens mais usadas -->
+  <!-- Linguagens mais usadas usando o servidor novo + quebra de cache -->
   <img height="180" src="https://vercel.app"/>
 </p>
 
 ---
 
-## 📈 Gráfico de Contribuições (Anual)
+## 🔥 GitHub Streak
 
 <p align="center">
-  <!-- Uma alternativa muito estável ao Activity Graph -->
+  <!-- Servidor alternativo estável para os Commits Seguidos -->
   <img src="https://vercel.app" />
 </p>
 

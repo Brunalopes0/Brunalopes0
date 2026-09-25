@@ -1,6 +1,5 @@
 <!-- BANNER -->
-
-<img width="1460" height="341" alt="Captura de tela 2026-09-24 214759" src="https://github.com/user-attachments/assets/4c2001ef-0114-4fe6-b5f0-9ec6bda9e59a" />
+<img width="1460" height="341" alt="Captura de tela 2026-09-24 214759" src="https://github.com/user-attachments/assets/0e20f96a-9c7a-4090-871e-668d24d4e1b8" />
 
 
 <!-- TYPING -->
@@ -73,18 +72,11 @@ Landing page moderna e responsiva desenvolvida para uma pizzaria fictícia.
 
 ---
 
-
----
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Estatísticas Gerais usando o servidor novo + quebra de cache -->
-  <img height="180" src="https://vercel.app"/>
-  <!-- Linguagens mais usadas usando o servidor novo + quebra de cache -->
-  <img height="180" src="https://vercel.app"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunalopes0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunalopes0&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ---
@@ -92,8 +84,23 @@ Landing page moderna e responsiva desenvolvida para uma pizzaria fictícia.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <!-- Servidor alternativo estável para os Commits Seguidos -->
-  <img src="https://vercel.app" />
+  <img src="https://streak-stats.demolab.com?user=brunalopes0&theme=radical&hide_border=false" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunalopes0&theme=redical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brunalopes0&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -101,8 +108,8 @@ Landing page moderna e responsiva desenvolvida para uma pizzaria fictícia.
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io"/>
+  <a href="https://www.linkedin.com/in/bruna-lopes-9225723a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bruna%20Lopes-E63946?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -113,5 +120,5 @@ Landing page moderna e responsiva desenvolvida para uma pizzaria fictícia.
 </p>
 
 <p align="center">
-  <img src="https://vercel.app"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=100&section=footer"/>
 </p>

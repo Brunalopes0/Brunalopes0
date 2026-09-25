@@ -1,6 +1,7 @@
 <!-- BANNER -->
 
-<img width="100%" src="https://github.com/user-attachments/assets/59c52857-9ed2-43b0-b5e8-14dcd4c047d7" />
+<img width="1460" height="341" alt="Captura de tela 2026-09-24 214759" src="https://github.com/user-attachments/assets/c3f73b31-fcd0-4721-97b7-236c19017100" />
+
 
 <!-- TYPING -->
 

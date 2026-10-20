@@ -70,6 +70,22 @@ Landing page moderna e responsiva desenvolvida para uma pizzaria fictícia.
 
 🔗 [Ver projeto](https://brunalopes0.github.io/Pizzaria/)
 
+###### 🍰 Doce Encanto — Aplicação web para uma doceria
+
+Projeto Full Stack em desenvolvimento, criado para praticar a construção de aplicações web e a integração entre front-end, back-end e banco de dados.
+
+**Principais recursos:**
+- 🍰 Exibição de bolos e cupcakes.
+- 🔌 Integração do front-end com uma API REST.
+- ⚙️ Back-end desenvolvido com Node.js e Fastify.
+- 🗄️ Banco de dados MySQL para armazenar os produtos.
+- ☁️ Publicação do front-end na Vercel e do back-end no Railway.
+
+**Tecnologias:** HTML, CSS, JavaScript, Node.js, Fastify, MySQL, Vercel e Railway.
+
+🌐 **[Acessar aplicação](https://doce-encanto-front.vercel.app/?#home)**
+
+> Projeto em desenvolvimento, com melhorias contínuas na integração entre front-end, back-end e banco de dados.
 ---
 
 ## 📊 GitHub Stats

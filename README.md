@@ -70,7 +70,7 @@ Landing page moderna e responsiva desenvolvida para uma pizzaria fictícia.
 
 🔗 [Ver projeto](https://brunalopes0.github.io/Pizzaria/)
 
-###### 🍰 Doce Encanto — Aplicação web para uma doceria
+### 🍰 Doce Encanto — Aplicação web para uma doceria
 
 Projeto Full Stack em desenvolvimento, criado para praticar a construção de aplicações web e a integração entre front-end, back-end e banco de dados.
 
@@ -101,22 +101,6 @@ Projeto Full Stack em desenvolvimento, criado para praticar a construção de ap
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=brunalopes0&theme=radical&hide_border=false" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunalopes0&theme=redical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brunalopes0&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---

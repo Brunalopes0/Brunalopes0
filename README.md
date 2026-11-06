@@ -87,7 +87,9 @@ Projeto Full Stack em desenvolvimento, criado para praticar a construção de ap
 
 > Projeto em desenvolvimento, com melhorias contínuas na integração entre front-end, back-end e banco de dados.
 ---
+##  Acesse meu portfólio
 
+[Visualizar portfólio online](https://brunalopes0.github.io/Portif-lio/)
 ## 📊 GitHub Stats
 
 <p align="center">

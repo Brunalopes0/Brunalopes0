@@ -91,6 +91,9 @@ Projeto Full Stack em desenvolvimento, criado para praticar a construção de ap
 
 [Visualizar portfólio online](https://brunalopes0.github.io/Portif-lio/)
 
+<br>
+
+## 📊 GitHub Stats
 <div align="center">
 
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Brunalopes0&show_icons=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=829875&text_color=FFFFFF&icon_color=829875" />

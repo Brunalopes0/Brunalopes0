@@ -90,14 +90,16 @@ Projeto Full Stack em desenvolvimento, criado para praticar a construção de ap
 ##  Acesse meu portfólio
 
 [Visualizar portfólio online](https://brunalopes0.github.io/Portif-lio/)
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunalopes0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunalopes0&layout=compact&langs_count=8&theme=radical"/>
-</p>
+<div align="center">
 
----
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Brunalopes0&show_icons=true&hide_border=true&locale=pt-br&bg_color=0D1117&title_color=829875&text_color=FFFFFF&icon_color=829875" />
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Brunalopes0&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=829875&text_color=FFFFFF" />
+
+</div>
+
+<br>
 
 ## 🔥 GitHub Streak
 
